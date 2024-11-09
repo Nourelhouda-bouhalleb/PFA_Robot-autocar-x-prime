@@ -6,5 +6,7 @@ In this project, we combine artificial intelligence (AI), robotics, and computer
 We use Webots, a powerful simulation platform, to design and test the robot's navigation algorithm. The simulation allows us to develop and refine the code in a controlled virtual environment before deploying it in real-world scenarios. The robot's navigation is powered by deep learning models such as VGG16 and MobileNet, which are employed to process and analyze the images captured by the camera. These models help the robot understand its surroundings, detect walls, and determine the best path forward, ensuring the most efficient navigation with high accuracy.
 
 The project leverages different AI models to find the best performing solution. By comparing VGG16, MobileNet, and other models, we aim to maximize the robot's performance in terms of both speed and accuracy, ensuring the most effective navigation through various maze configurations.
+
+
 ![Screenshot from 2024-11-09 22-01-41](https://github.com/user-attachments/assets/5a1af58b-4458-4fd6-b186-9bd9eb73c9b9)
 
