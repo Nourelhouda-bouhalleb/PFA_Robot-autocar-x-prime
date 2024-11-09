@@ -8,7 +8,7 @@ We use Webots, a powerful simulation platform, to design and test the robot's na
 The project leverages different AI models to find the best performing solution. By comparing VGG16, MobileNet, and other models, we aim to maximize the robot's performance in terms of both speed and accuracy, ensuring the most effective navigation through various maze configurations.
 
 
-![Screenshot from 2024-11-09 22-01-41](https://github.com/user-attachments/assets/5a1af58b-4458-4fd6-b186-9bd9eb73c9b9)   ![Screenshot from 2024-11-09 22-11-40](https://github.com/user-attachments/assets/6ed43cbc-f32e-4631-bbe2-bf6bbd52e6aa)
+![Screenshot from 2024-11-09 22-01-41](https://github.com/user-attachments/assets/5a1af58b-4458-4fd6-b186-9bd9eb73c9b9)   ![Screenshot from 2024-11-09 22-14-11](https://github.com/user-attachments/assets/7c713eeb-481c-466e-a6df-6715876b2e28)
 
 
 
