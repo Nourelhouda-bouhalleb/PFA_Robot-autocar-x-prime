@@ -11,6 +11,5 @@ The project leverages different AI models to find the best performing solution. 
 ![Screenshot from 2024-11-09 22-01-41](https://github.com/user-attachments/assets/5a1af58b-4458-4fd6-b186-9bd9eb73c9b9)  ![Screenshot from 2024-11-09 22-15-10](https://github.com/user-attachments/assets/06cbd285-18fe-4584-a920-6f43f92fac6f)
 
 
-https://github.com/user-attachments/assets/70e9d064-3080-4e13-befa-b071f8f68e36
 
 
