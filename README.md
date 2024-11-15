@@ -13,3 +13,7 @@ The project leverages different AI models to find the best performing solution. 
 
 
 
+https://github.com/user-attachments/assets/af85a4cd-a708-4858-894c-c711a089ea1b
+
+
+
